@@ -1,0 +1,8 @@
+{
+  "name": "rnsamplewithstorybook",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/daarkfish/rnsamplewithstorybook.git",
+  "author": "wanting <wanting@agmostudio.com>",
+  "license": "MIT"
+}
